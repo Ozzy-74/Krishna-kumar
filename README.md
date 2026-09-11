@@ -25,7 +25,7 @@
 >
 **🧱BUILD** Playwright + TypeScript
 >>
-**TEST** E2E | API | Visual Regression
+<img src="https://openmoji.org/data/color/svg/1F9EA.svg" width="18"/> TEST E2E | API | Visual Regression
 >>>
 **DESIGN** POM | Data-Driven | BDD
 >>>>
