@@ -19,25 +19,25 @@
 
 ---
 
->_ WHOAMI
+>_ **WHOAMI**
 >
 
-$ role
+**$ role**
 QA / Automation Test Engineer
 
-$ stack
+**$ stack**
 Playwright | TypeScript | JavaScript
 
-$ testing
+**$ testing**
 E2E | API | Visual Regression
 
-$ framework
+**$ framework**
 POM | Data-Driven | BDD
 
-$ cicd
+**$ cicd**
 GitHub Actions | Jenkins
 
-$ mission
+**$ mission**
 Automate → Detect → Validate → Deliver
 
 ---
