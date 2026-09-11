@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Playwright-0B1F3A?style=for-the-badge&logo=playwright&logoColor=2EAD33"/>,
+<img src="https://img.shields.io/badge/Playwright-0B1F3A?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright"/>
 <img src="https://img.shields.io/badge/TYPESCRIPT-0B1F3A?style=for-the-badge&logo=typescript&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-0B1F3A?style=for-the-badge&logo=javascript&logoColor=FFD600"/>
 <img src="https://img.shields.io/badge/CI%2FCD-0B1F3A?style=for-the-badge&logo=githubactions&logoColor=7B2CFF"/>
