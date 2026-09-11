@@ -31,7 +31,7 @@
 >
 > `🔌 DEPLOY` :: **GitHub Actions | Jenkins**
 >
-> `📈 MISSION` :: **Automate. Validate. Improve.**
+> `☄ MISSION` :: **Automate. Validate. Improve.**
 
 > `// Quality isn't tested in. It's engineered.`
 
