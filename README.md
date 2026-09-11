@@ -9,14 +9,6 @@
 <img src="https://img.shields.io/badge/PLAYWRIGHT-0B1F3A?style=for-the-badge&logo=playwright&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/TYPESCRIPT-0B1F3A?style=for-the-badge&logo=typescript&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-0B1F3A?style=for-the-badge&logo=javascript&logoColor=FFD600"/>
-<a href="https://playwright.dev">
-  <img
-    src="https://playwright.dev/img/playwright-logo.svg"
-    width="38"
-    height="38"
-    alt="Playwright"
-  />
-</a>
 <img src="https://img.shields.io/badge/CI%2FCD-0B1F3A?style=for-the-badge&logo=githubactions&logoColor=7B2CFF"/>
 
 
