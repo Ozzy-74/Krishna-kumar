@@ -16,7 +16,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50"/>
 
 </div>
-
+<br>
 ---
 
 ◈ PROFILE // ONLINE
@@ -27,7 +27,7 @@ API	REST + Postman
 ARCHITECTURE	POM + Data-Driven + BDD
 PIPELINE	GitHub Actions + Jenkins
 MISSION	Reliable & scalable automation
-
+<br>
 [ AUTOMATE ] → [ VALIDATE ] → [ IMPROVE ] → [ SHIP ]
 
 ---
