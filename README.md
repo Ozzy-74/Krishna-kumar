@@ -25,20 +25,20 @@
 >
 **🧱BUILD** Playwright + TypeScript
 >>
-<img src="https://openmoji.org/php/download_asset.php?type=emoji&emoji_hexcode=1F9EA&emoji_variant=color" width="15" height="15"/> **TEST** E2E | API | Visual Regression
+**🧪TEST** E2E | API | Visual Regression
 >>>
-**DESIGN** POM | Data-Driven | BDD
+**🖍DESIGN** POM | Data-Driven | BDD
 >>>>
-**DEPLOY** GitHub Actions | Jenkins
+**🔌DEPLOY** GitHub Actions | Jenkins
 >>>>>
-**MISSION** Automate. Validate. Improve.
+**📈MISSION** Automate. Validate. Improve.
 >>>>>>
 
 **Quality isn't tested in. It's engineered!!!**
 
 ---
 
-### 🚀 What I Automate
+### ⚛ What I Automate
 
 | Area | Details |
 |------|---------|
