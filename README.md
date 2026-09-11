@@ -31,12 +31,19 @@
 <div align="center">
 
 <img src="https://cdn.simpleicons.org/git/F05032" height="50" width="50" alt="Git" title="Git"/>&nbsp;&nbsp;
+
 <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="50" width="50" alt="GitLab" title="GitLab"/>&nbsp;&nbsp;
+
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" width="50" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
+
 <img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" width="50" alt="TypeScript" title="TypeScript"/>&nbsp;&nbsp;
+
 <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="50" width="50" alt="VS Code" title="VS Code"/>&nbsp;&nbsp;
+
 <img src="https://cdn.simpleicons.org/playwright/2EAD33" height="50" width="50" alt="Playwright" title="Playwright"/>&nbsp;&nbsp;
+
 <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" width="50" alt="API Testing (Postman)" title="API Testing"/>&nbsp;&nbsp;
+
 <img src="https://cdn.simpleicons.org/jira/0052CC" height="50" width="50" alt="Jira" title="Jira"/>
 
 </div>
