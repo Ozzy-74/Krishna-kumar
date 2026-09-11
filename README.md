@@ -25,7 +25,7 @@
 >
 **🧱BUILD** Playwright + TypeScript
 >>
-<img src="https://openmoji.org/data/color/svg/1F9EA.svg" width="32" height="32"/> **TEST** E2E | API | Visual Regression
+<img src="https://openmoji.org/php/download_asset.php?type=emoji&emoji_hexcode=1F9EA&emoji_variant=color" width="32" height="32"/> **TEST** E2E | API | Visual Regression
 >>>
 **DESIGN** POM | Data-Driven | BDD
 >>>>
