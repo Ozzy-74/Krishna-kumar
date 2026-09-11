@@ -27,7 +27,7 @@
 [+] CI/CD       :: GitHub Actions | Jenkins
 [+] FOCUS       :: Reliable • Scalable • Maintainable Automation
 [+] MISSION     :: Find bugs before users do.
-
+</div>
 ---
 
 ### 🚀 What I Automate
