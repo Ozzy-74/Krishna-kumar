@@ -39,7 +39,7 @@
 | 🔁 **CI/CD** | GitHub Actions, Jenkins pipelines for automated test execution |
 | 🧩 **Framework Design** | Page Object Model (POM), Data-Driven & BDD (Cucumber) architectures |
 | 🖼️ **Visual Testing** | Screenshot & visual regression testing |
-
+---
 🤝 Let's Connect
 
 <div align="left">
