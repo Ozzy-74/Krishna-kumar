@@ -19,41 +19,41 @@
 
 ---
 
-**🕹ABOUT ME**
->
-**✴ROLE-** QA / AUTOMATION TEST ENGINEER
->
-**🧱BUILD-** Playwright + TypeScript
->>
-**🧪TEST-** E2E | API | Visual Regression
->>>
-**🖍DESIGN-** POM | Data-Driven | BDD
->>>>
-**🔌DEPLOY-** GitHub Actions | Jenkins
->>>>>
-**📈MISSION-** Automate. Validate. Improve.
->>>>>>
+### `🕹 ABOUT ME`
 
-**Quality isn't tested in. It's engineered!!!**
+> `✴ ROLE` :: **QA / AUTOMATION TEST ENGINEER**
+>
+> `🧱 BUILD` :: **Playwright + TypeScript**
+>
+> `🧪 TEST` :: **E2E | API | Visual Regression**
+>
+> `🖍 DESIGN` :: **POM | Data-Driven | BDD**
+>
+> `🔌 DEPLOY` :: **GitHub Actions | Jenkins**
+>
+> `📈 MISSION` :: **Automate. Validate. Improve.**
+
+> `// Quality isn't tested in. It's engineered.`
 
 ---
 
-### ⚛ What I Automate
+### `⚛ WHAT I AUTOMATE`
 
-| Area | Details |
-|------|---------|
-| 🌐 **E2E Testing** | Cross-browser automation with Playwright (Chromium, Firefox, WebKit) |
-| 🔗 **API Testing** | REST API validation using Playwright's API testing & Postman |
-| 📊 **Reporting** | Allure Reports, HTML Reporter, Playwright Trace Viewer |
-| 🔁 **CI/CD** | GitHub Actions, Jenkins pipelines for automated test execution |
-| 🧩 **Framework Design** | Page Object Model (POM), Data-Driven & BDD (Cucumber) architectures |
-| 🖼️ **Visual Testing** | Screenshot & visual regression testing |
+| `AREA`                | `DETAILS`                                                            |
+| :-------------------- | :------------------------------------------------------------------- |
+| `🌐 E2E TESTING`      | Cross-browser automation with Playwright (Chromium, Firefox, WebKit) |
+| `🔗 API TESTING`      | REST API validation using Playwright's API testing & Postman         |
+| `📊 REPORTING`        | Allure Reports, HTML Reporter, Playwright Trace Viewer               |
+| `🔁 CI/CD`            | GitHub Actions, Jenkins pipelines for automated test execution       |
+| `🧩 FRAMEWORK DESIGN` | Page Object Model (POM), Data-Driven & BDD (Cucumber) architectures  |
+| `🖼 VISUAL TESTING`   | Screenshot & visual regression testing                               |
+
 ---
-🤝 Let's Connect
+
+### `🤝 LET'S CONNECT`
 
 <div align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
