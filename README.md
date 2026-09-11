@@ -19,11 +19,14 @@
 
 ---
 
-// ABOUT ME
+**ABOUT ME**
 
 **ROLE QA** / AUTOMATION TEST ENGINEER
+>
 **BUILD** Playwright + TypeScript
+>>
 **TEST** E2E | API | Visual Regression
+>>>
 **DESIGN** POM | Data-Driven | BDD
 **DEPLOY** GitHub Actions | Jenkins
 **MISSION** Automate. Validate. Improve.
