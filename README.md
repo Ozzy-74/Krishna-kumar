@@ -19,19 +19,17 @@
 
 ---
 
-[ SYSTEM PROFILE ]
-╭────────────────────────────────────────────╮
-│ STATUS       : ONLINE                      │
-│ ROLE         : QA AUTOMATION ENGINEER     │
-│                                              
-│ CORE         : PLAYWRIGHT + TYPESCRIPT    │
-│ API          : REST + POSTMAN             │
-│ FRAMEWORK    : POM + DATA-DRIVEN + BDD    │
-│ CI/CD        : GITHUB ACTIONS + JENKINS   │
-│                                              
-│ MODE         : AUTOMATE                    │
-│ OBJECTIVE    : ZERO-DEFECT MINDSET         │
-╰────────────────────────────────────────────╯
+◈ PROFILE // ONLINE
+SYSTEM	STATUS
+ROLE	QA / Automation Engineer
+ENGINE	Playwright + TypeScript
+API	REST + Postman
+ARCHITECTURE	POM + Data-Driven + BDD
+PIPELINE	GitHub Actions + Jenkins
+MISSION	Reliable & scalable automation
+
+[ AUTOMATE ] → [ VALIDATE ] → [ IMPROVE ] → [ SHIP ]
+
 ---
 
 ### 🚀 What I Automate
