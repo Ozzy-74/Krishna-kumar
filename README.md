@@ -19,26 +19,16 @@
 
 ---
 
->_ **WHOAMI**
->
+// ABOUT ME
 
-**$ role**
-QA / Automation Test Engineer
+**ROLE QA** / AUTOMATION TEST ENGINEER
+**BUILD** Playwright + TypeScript
+**TEST** E2E | API | Visual Regression
+**DESIGN** POM | Data-Driven | BDD
+**DEPLOY** GitHub Actions | Jenkins
+**MISSION** Automate. Validate. Improve.
 
-**$ stack**
-Playwright | TypeScript | JavaScript
-
-**$ testing**
-E2E | API | Visual Regression
-
-**$ framework**
-POM | Data-Driven | BDD
-
-**$ cicd**
-GitHub Actions | Jenkins
-
-**$ mission**
-Automate → Detect → Validate → Deliver
+// Quality isn't tested in. It's engineered.
 
 ---
 
