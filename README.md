@@ -35,8 +35,6 @@
 ---
 <div align="center">
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=git,gitlab,js,ts,vscode,postman,jira"
      alt="Tech Stack Icons"/>
 
