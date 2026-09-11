@@ -16,7 +16,7 @@
 
 ---
 
-### 🧪 About Me
+###  About Me
 
 - 🔭 I'm currently building robust **end-to-end test automation frameworks** using **Playwright + TypeScript**
 - 🌱 Exploring **API testing**, **visual regression testing**, and **CI/CD pipelines**
