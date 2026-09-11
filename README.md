@@ -28,10 +28,13 @@
 **TEST** E2E | API | Visual Regression
 >>>
 **DESIGN** POM | Data-Driven | BDD
+>>>>
 **DEPLOY** GitHub Actions | Jenkins
+>>>>>
 **MISSION** Automate. Validate. Improve.
+>>>>>>
 
-// Quality isn't tested in. It's engineered.
+**Quality isn't tested in. It's engineered.**
 
 ---
 
