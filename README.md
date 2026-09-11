@@ -51,7 +51,7 @@
 | 🔗 **API Testing** | REST API validation using Playwright's API testing & Postman |
 | 📊 **Reporting** | Allure Reports, HTML Reporter, Playwright Trace Viewer |
 | 🔁 **CI/CD** | GitHub Actions, Jenkins pipelines for automated test execution |
-| 🧩 **Framework Design** | Page Object Model (POM), Data-Driven & BDD (Cucumber) architectures |
+| 🧩 **Framework Design** |  Hybrid Framework(POM,Data-Driven,Fixtures,API automation)  |
 | 🖼️ **Visual Testing** | Screenshot & visual regression testing |
 
 ---
