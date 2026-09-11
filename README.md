@@ -19,13 +19,14 @@
 
 ---
 
-### 🧪 About Me
-
-- 🔭 I'm currently building robust **end-to-end test automation frameworks** using **Playwright + TypeScript**
-- 🌱 Exploring **API testing**, **visual regression testing**, and **CI/CD pipelines**
-- 🤝 Open to collaborating on **test automation frameworks** and **open source QA tools**
-- 💬 Ask me about **Playwright**, **TypeScript**, **Test Automation Strategy**, or **CI/CD integration**
-- ⚡ Fun fact: I break things on purpose — professionally.
+>_ ABOUT_ME
+[+] ROLE        :: QA / AUTOMATION TEST ENGINEER
+[+] AUTOMATION  :: Playwright + TypeScript
+[+] API         :: REST API + Postman
+[+] FRAMEWORK   :: POM | Data-Driven | BDD
+[+] CI/CD       :: GitHub Actions | Jenkins
+[+] FOCUS       :: Reliable • Scalable • Maintainable Automation
+[+] MISSION     :: Find bugs before users do.
 
 ---
 
