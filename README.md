@@ -19,9 +19,9 @@
 
 ---
 
-**ABOUT ME**
-
-**ROLE QA** / AUTOMATION TEST ENGINEER
+**🔆ABOUT ME**
+>
+**✴ROLE** QA / AUTOMATION TEST ENGINEER
 >
 **🧱BUILD** Playwright + TypeScript
 >>
