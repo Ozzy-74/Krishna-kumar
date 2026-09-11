@@ -6,8 +6,6 @@
 
 <br>
 
-<div align="center">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
@@ -17,12 +15,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50"/>
 
-
 </div>
-<br>
+
 ---
 
-### $\color{#F7DF1E}{\textsf{🧪 About Me}}$
+### 🧪 About Me
 
 - 🔭 I'm currently building robust **end-to-end test automation frameworks** using **Playwright + TypeScript**
 - 🌱 Exploring **API testing**, **visual regression testing**, and **CI/CD pipelines**
@@ -32,12 +29,7 @@
 
 ---
 
-
-</div>
-
----
-
-### $\color{#2EAD33}{\textsf{🚀 What I Automate}}$
+### 🚀 What I Automate
 
 | Area | Details |
 |------|---------|
@@ -47,31 +39,3 @@
 | 🔁 **CI/CD** | GitHub Actions, Jenkins pipelines for automated test execution |
 | 🧩 **Framework Design** | Page Object Model (POM), Data-Driven & BDD (Cucumber) architectures |
 | 🖼️ **Visual Testing** | Screenshot & visual regression testing |
-
----
-
-### $\color{#FF6C37}{\textsf{📌 Pinned Project Highlight}}$
-
-<div align="center">
-
-[![Playwright Automation Framework](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=your-playwright-framework&theme=tokyonight&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME/your-playwright-framework)
-
-</div>
-
----
-
-### $\color{#0052CC}{\textsf{🤝 Let's Connect}}$
-
-<div align="center">
-
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-
-</div>
-
-<div align="center">
-
-<img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Profile Views" />
-
-</div>
