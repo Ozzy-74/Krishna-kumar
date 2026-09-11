@@ -12,28 +12,7 @@
 <img src="https://img.shields.io/badge/API%20TESTING-0B1F3A?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 <img src="https://img.shields.io/badge/CI%2FCD-0B1F3A?style=for-the-badge&logo=githubactions&logoColor=7B2CFF"/>
 
-<br><br>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ██████╗ █████╗      ██╗   ██╗ █████╗                      ║
-║   ██╔══██╗██╔══██╗    ██║   ██║██╔══██╗                     ║
-║   ██████╔╝███████║    ╚██╗ ██╔╝███████║                     ║
-║   ██╔══██╗██╔══██║     ╚████╔╝ ██╔══██║                     ║
-║   ██║  ██║██║  ██║      ╚██╔╝  ██║  ██║                     ║
-║   ╚═╝  ╚═╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝                     ║
-║                                                              ║
-║              AUTOMATION SYSTEM: ONLINE                       ║
-║                                                              ║
-║   [✓] UI Automation       [✓] API Testing                   ║
-║   [✓] Page Object Model   [✓] Custom Fixtures               ║
-║   [✓] Test Automation     [✓] CI/CD                         ║
-║                                                              ║
-║                 STATUS: BUGS DETECTED                         ║
-║                 ACTION: AUTOMATE                              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
 </div>
 
 ---
