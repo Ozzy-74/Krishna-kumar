@@ -6,10 +6,16 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Playwright-0B1F3A?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright"/>
-<img src="https://img.shields.io/badge/TYPESCRIPT-0B1F3A?style=for-the-badge&logo=typescript&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-0B1F3A?style=for-the-badge&logo=javascript&logoColor=FFD600"/>
-<img src="https://img.shields.io/badge/CI%2FCD-0B1F3A?style=for-the-badge&logo=githubactions&logoColor=7B2CFF"/>
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50"/>
 
 
 </div>
@@ -25,19 +31,7 @@
 - ⚡ Fun fact: I break things on purpose — professionally.
 
 ---
-<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50"/>
-
-
-</div>
 
 </div>
 
