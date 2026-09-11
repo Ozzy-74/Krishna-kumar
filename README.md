@@ -1,17 +1,39 @@
 <div align="center">
 
-# Hi there, I'm krishna kumar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050A18,25:0B1F3A,50:0066FF,75:7B2CFF,100:00E5FF&height=230&section=header&text=KRISHNA%20KUMAR&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=QA%20%2F%20AUTOMATION%20TEST%20ENGINEER&descAlignY=60&descSize=20&descColor=00E5FF" width="100%" />
 
-### $\color{#2EA9DF}{\textsf{QA / Automation Test Engineer}}$ | Playwright • TypeScript • CI/CD
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=800&height=100&lines=%3E_%20Initializing%20Automation%20Engineer...;%5BPLAYWRIGHT%5D%20End-to-End%20Testing;%5BTS%5D%20TypeScript%20%7C%20JavaScript;%5BAPI%5D%20Automation%20%7C%20Postman;%5BCI%2FCD%5D%20Continuous%20Testing;%3E_%20Automate.%20Test.%20Improve.%20Repeat." alt="Typing Animation" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2EA9DF&center=true&vCenter=true&width=600&lines=Automating+the+boring+stuff...;End-to-End+Testing+with+Playwright;TypeScript+%7C+JavaScript+%7C+CI%2FCD;Building+Reliable+Test+Frameworks" alt="Typing SVG" />
+<br>
 
-<p>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+<img src="https://img.shields.io/badge/PLAYWRIGHT-0B1F3A?style=for-the-badge&logo=playwright&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-0B1F3A?style=for-the-badge&logo=typescript&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-0B1F3A?style=for-the-badge&logo=javascript&logoColor=FFD600"/>
+<img src="https://img.shields.io/badge/API%20TESTING-0B1F3A?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0B1F3A?style=for-the-badge&logo=githubactions&logoColor=7B2CFF"/>
 
+<br><br>
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ██████╗ █████╗      ██╗   ██╗ █████╗                      ║
+║   ██╔══██╗██╔══██╗    ██║   ██║██╔══██╗                     ║
+║   ██████╔╝███████║    ╚██╗ ██╔╝███████║                     ║
+║   ██╔══██╗██╔══██║     ╚████╔╝ ██╔══██║                     ║
+║   ██║  ██║██║  ██║      ╚██╔╝  ██║  ██║                     ║
+║   ╚═╝  ╚═╝╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝                     ║
+║                                                              ║
+║              AUTOMATION SYSTEM: ONLINE                       ║
+║                                                              ║
+║   [✓] UI Automation       [✓] API Testing                   ║
+║   [✓] Page Object Model   [✓] Custom Fixtures               ║
+║   [✓] Test Automation     [✓] CI/CD                         ║
+║                                                              ║
+║                 STATUS: BUGS DETECTED                         ║
+║                 ACTION: AUTOMATE                              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 </div>
 
 ---
