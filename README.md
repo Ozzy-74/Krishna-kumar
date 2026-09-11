@@ -1,73 +1,209 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA9DF,100:6A5ACD&height=200&section=header&text=Hey,%20I'm%20Krishna%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=QA%20%2F%20Automation%20Test%20Engineer%20%7C%20Playwright%20%2B%20TypeScript&descAlignY=55&descSize=18" width="100%" alt="Header Banner" />
+# 👋 Hey, I'm Krishna Kumar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=6A5ACD&center=true&vCenter=true&width=650&lines=Automating+the+boring+stuff+...;End-to-End+Testing+with+Playwright;TypeScript+%7C+JavaScript+%7C+CI%2FCD;Zero+bugs+shipped%2C+all+bugs+caught." alt="Typing SVG" />
+::: {align="center"}
+### QA / Automation Test Engineer
 
-<p>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+**Playwright + TypeScript \| JavaScript \| API Testing \| CI/CD**
 
-</div>
+`<img src="./assets/github-banner.png" alt="Krishna Kumar - QA Automation Test Engineer" width="100%"/>`{=html}
+:::
 
----
+------------------------------------------------------------------------
 
-### $\color{#F7DF1E}{\textsf{🧪 About Me}}$
+## 🚀 About Me
 
-- 🔭 I'm currently building robust **end-to-end test automation frameworks** using **Playwright + TypeScript**
-- 🌱 Exploring **API testing**, **visual regression testing**, and **CI/CD pipelines**
-- 🤝 Open to collaborating on **test automation frameworks** and **open source QA tools**
-- 💬 Ask me about **Playwright**, **TypeScript**, **Test Automation Strategy**, or **CI/CD integration**
-- ⚡ Fun fact: I break things on purpose — professionally.
+I'm a **QA / Automation Test Engineer** focused on building reliable,
+maintainable and scalable test automation.
 
----
+I enjoy turning repetitive manual testing into clean automation and
+catching bugs before they reach production.
 
-### $\color{#3178C6}{\textsf{🛠️ Tech Stack \& Tools}}$
+> **Automating the boring stuff ...**\
+> **Zero bugs shipped, all bugs caught.**
 
-<div align="center">
+------------------------------------------------------------------------
 
-<img src="https://skillicons.dev/icons?i=git,gitlab,js,ts,vscode,playwright,postman,jira" alt="Tech Stack Icons" />
+## 🧪 What I Work With
 
-</div>
+  -----------------------------------------------------------------------
+  Area                                Technologies
+  ----------------------------------- -----------------------------------
+  🎭 UI Automation                    Playwright
 
----
+  💻 Programming                      TypeScript, JavaScript
 
-### $\color{#2EAD33}{\textsf{🚀 What I Automate}}$
+  🔌 API Testing                      Postman, REST APIs, Playwright API
 
-| Area | Details |
-|------|---------|
-| 🌐 **E2E Testing** | Cross-browser automation with Playwright (Chromium, Firefox, WebKit) |
-| 🔗 **API Testing** | REST API validation using Playwright's API testing & Postman |
-| 📊 **Reporting** | Allure Reports, HTML Reporter, Playwright Trace Viewer |
-| 🔁 **CI/CD** | GitHub Actions, Jenkins pipelines for automated test execution |
-| 🧩 **Framework Design** | Page Object Model (POM), Data-Driven & BDD (Cucumber) architectures |
-| 🖼️ **Visual Testing** | Screenshot & visual regression testing |
+  🧱 Automation Design                Page Object Model, Fixtures,
+                                      Data-driven Testing
 
----
+  🔐 Authentication                   Storage State, OAuth
 
-### $\color{#FF6C37}{\textsf{📌 Pinned Project Highlight}}$
+  📊 Reporting                        Playwright HTML Reports
 
-<div align="center">
+  ⚙️ DevOps                           CI/CD
 
-[![Playwright Automation Framework](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=your-playwright-framework&theme=tokyonight&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME/your-playwright-framework)
+  🐙 Version Control                  Git, GitHub
+  -----------------------------------------------------------------------
 
-</div>
+------------------------------------------------------------------------
 
----
+## 🛠️ Automation Skills
 
-### $\color{#0052CC}{\textsf{🤝 Let's Connect}}$
+``` text
+Playwright
+├── Locators
+├── XPath / CSS
+├── Assertions
+├── Dialog Handling
+├── File Upload / Download
+├── Hooks
+├── Fixtures
+├── Page Object Model
+├── Storage State
+├── Parameterization
+├── API Testing
+└── HTML Reporting
+```
 
-<div align="center">
+------------------------------------------------------------------------
 
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+## 📌 Featured Projects
 
-</div>
+### 🎭 Playwright Automation Framework
 
-<div align="center">
+A scalable end-to-end automation framework built using **Playwright +
+TypeScript**.
 
-<img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Profile Views" />
+**Includes:** - Page Object Model - Custom Fixtures - Reusable test
+utilities - Data-driven testing - Storage state authentication -
+Cross-browser execution - Screenshots and traces - HTML reports
 
-</div>
+### 🔌 API Automation
+
+API testing and automation using **Playwright APIRequest** and
+**Postman**.
+
+**Includes:** - CRUD operations - Request chaining - OAuth
+authentication - Response validation - JSON handling - API + UI test
+integration
+
+### 🐞 Jira Integration
+
+Automation workflow for logging failed test cases and defects into Jira.
+
+**Includes:** - Automated failure detection - API-based Jira issue
+creation - Test result logging - Failure/timeout handling
+
+------------------------------------------------------------------------
+
+## 🧠 Currently Learning
+
+-   Advanced Playwright
+-   TypeScript
+-   API Automation
+-   Custom Fixtures
+-   CI/CD Automation
+-   Test Architecture
+-   Automation Framework Design
+
+------------------------------------------------------------------------
+
+## 📈 My Testing Philosophy
+
+``` text
+Write Tests
+     ↓
+Find Bugs
+     ↓
+Understand Root Cause
+     ↓
+Automate Repetitive Work
+     ↓
+Improve Quality
+     ↓
+Ship Better Software 🚀
+```
+
+------------------------------------------------------------------------
+
+## ⚡ Tech Stack
+
+::: {align="center"}
+![Playwright](https://img.shields.io/badge/Playwright-2EA9DF?style=for-the-badge&logo=playwright&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-6A5ACD?style=for-the-badge&logo=githubactions&logoColor=white)
+:::
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Stats
+
+::: {align="center"}
+`<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>`{=html}
+
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 🐍 Contribution Snake
+
+::: {align="center"}
+`<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 🌌 Automation Mindset
+
+``` text
+              ┌──────────────────┐
+              │   APPLICATION    │
+              └────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │   TEST DESIGN   │
+              └────────┬─────────┘
+                       │
+                       ▼
+              ┌──────────────────┐
+              │    PLAYWRIGHT    │
+              └────────┬─────────┘
+                       │
+             ┌─────────┴─────────┐
+             ▼                   ▼
+        UI AUTOMATION        API TESTING
+             │                   │
+             └─────────┬─────────┘
+                       ▼
+              ┌──────────────────┐
+              │   CI / CD PIPE   │
+              └────────┬─────────┘
+                       ▼
+                 🚀 RELEASE
+```
+
+------------------------------------------------------------------------
+
+## 📫 Connect With Me
+
+::: {align="center"}
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+:::
+
+------------------------------------------------------------------------
+
+::: {align="center"}
+### ☕ Coffee + Tests + Progress
+
+**Build. Automate. Test. Improve. Repeat.**
+
+⭐ If you find my projects useful, consider giving them a star!
+:::
