@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm [krishna kumar] 👋
+# Hi there, I'm krishna kumar 
 
 ### QA / Automation Test Engineer | Playwright • TypeScript • CI/CD
 
