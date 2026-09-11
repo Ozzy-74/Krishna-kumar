@@ -16,19 +16,27 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50"/>
 
 </div>
-<br>
+
 ---
 
-◈ PROFILE // ONLINE
-SYSTEM	STATUS
-ROLE	QA / Automation Engineer
-ENGINE	Playwright + TypeScript
-API	REST + Postman
-ARCHITECTURE	POM + Data-Driven + BDD
-PIPELINE	GitHub Actions + Jenkins
-MISSION	Reliable & scalable automation
-<br>
-[ AUTOMATE ] → [ VALIDATE ] → [ IMPROVE ] → [ SHIP ]
+>_ WHOAMI
+$ role
+QA / Automation Test Engineer
+
+$ stack
+Playwright | TypeScript | JavaScript
+
+$ testing
+E2E | API | Visual Regression
+
+$ framework
+POM | Data-Driven | BDD
+
+$ cicd
+GitHub Actions | Jenkins
+
+$ mission
+Automate → Detect → Validate → Deliver
 
 ---
 
