@@ -19,15 +19,19 @@
 
 ---
 
->_ ABOUT_ME
-[+] ROLE        :: QA / AUTOMATION TEST ENGINEER
-[+] AUTOMATION  :: Playwright + TypeScript
-[+] API         :: REST API + Postman
-[+] FRAMEWORK   :: POM | Data-Driven | BDD
-[+] CI/CD       :: GitHub Actions | Jenkins
-[+] FOCUS       :: Reliable • Scalable • Maintainable Automation
-[+] MISSION     :: Find bugs before users do.
-</div>
+[ SYSTEM PROFILE ]
+╭────────────────────────────────────────────╮
+│ STATUS       : ONLINE                      │
+│ ROLE         : QA AUTOMATION ENGINEER     │
+│                                              
+│ CORE         : PLAYWRIGHT + TYPESCRIPT    │
+│ API          : REST + POSTMAN             │
+│ FRAMEWORK    : POM + DATA-DRIVEN + BDD    │
+│ CI/CD        : GITHUB ACTIONS + JENKINS   │
+│                                              
+│ MODE         : AUTOMATE                    │
+│ OBJECTIVE    : ZERO-DEFECT MINDSET         │
+╰────────────────────────────────────────────╯
 ---
 
 ### 🚀 What I Automate
