@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/PLAYWRIGHT-0B1F3A?style=for-the-badge&logo=playwright&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/TYPESCRIPT-0B1F3A?style=for-the-badge&logo=typescript&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-0B1F3A?style=for-the-badge&logo=javascript&logoColor=FFD600"/>
-<img src="https://img.shields.io/badge/API%20TESTING-0B1F3A?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/API%20TESTING-0B1F3A?style=for-the-badge&logo=postman](https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/playwright-y50bnthygb3rvsppvkm9e.png/playwright-q55xzpenhgjsodksybst.png?_a=DATAiZAAZAA0)&logoColor=FF6C37"/>
 <img src="https://img.shields.io/badge/CI%2FCD-0B1F3A?style=for-the-badge&logo=githubactions&logoColor=7B2CFF"/>
 
 
