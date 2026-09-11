@@ -2,7 +2,7 @@
 
 # Hi there, I'm krishna kumar
 
-### QA / Automation Test Engineer | Playwright • TypeScript • CI/CD
+### $\color{#2EA9DF}{\textsf{QA / Automation Test Engineer}}$ | Playwright • TypeScript • CI/CD
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2EA9DF&center=true&vCenter=true&width=600&lines=Automating+the+boring+stuff...;End-to-End+Testing+with+Playwright;TypeScript+%7C+JavaScript+%7C+CI%2FCD;Building+Reliable+Test+Frameworks" alt="Typing SVG" />
 
@@ -16,7 +16,7 @@
 
 ---
 
-###  About Me
+### $\color{#F7DF1E}{\textsf{🧪 About Me}}$
 
 - 🔭 I'm currently building robust **end-to-end test automation frameworks** using **Playwright + TypeScript**
 - 🌱 Exploring **API testing**, **visual regression testing**, and **CI/CD pipelines**
@@ -26,27 +26,17 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### $\color{#3178C6}{\textsf{🛠️ Tech Stack \& Tools}}$
 
 <div align="center">
-<img src="https://cdn.simpleicons.org/git/F05032" height="50" width="50" alt="Git" title="Git"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="50" width="50" alt="GitLab" title="GitLab"/>&nbsp;&nbsp;
 
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" width="50" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" width="50" alt="TypeScript" title="TypeScript"/>&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="50" width="50" alt="VS Code" title="VS Code"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/playwright/2EAD33" height="50" width="50" alt="Playwright" title="Playwright"/>&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" width="50" alt="API Testing (Postman)" title="API Testing"/>&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/jira/0052CC" height="50" width="50" alt="Jira" title="Jira"/>
+<img src="https://skillicons.dev/icons?i=git,gitlab,js,ts,vscode,playwright,postman,jira" alt="Tech Stack Icons" />
 
 </div>
 
 ---
 
-### 🚀 What I Automate
+### $\color{#2EAD33}{\textsf{🚀 What I Automate}}$
 
 | Area | Details |
 |------|---------|
@@ -54,21 +44,12 @@
 | 🔗 **API Testing** | REST API validation using Playwright's API testing & Postman |
 | 📊 **Reporting** | Allure Reports, HTML Reporter, Playwright Trace Viewer |
 | 🔁 **CI/CD** | GitHub Actions, Jenkins pipelines for automated test execution |
-| 🧩 **Framework Design** |  Hybrid Framework(POM,Data-Driven,Fixtures,API automation)  |
+| 🧩 **Framework Design** | Page Object Model (POM), Data-Driven & BDD (Cucumber) architectures |
 | 🖼️ **Visual Testing** | Screenshot & visual regression testing |
 
 ---
 
-  
-</div>
-
-<div align="center">
-  <img height="50",src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-### 📌 Pinned Project Highlight
+### $\color{#FF6C37}{\textsf{📌 Pinned Project Highlight}}$
 
 <div align="center">
 
@@ -78,7 +59,7 @@
 
 ---
 
-### 🤝 Let's Connect
+### $\color{#0052CC}{\textsf{🤝 Let's Connect}}$
 
 <div align="center">
 
@@ -90,6 +71,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2EA9DF&style=flat-square)
+<img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" alt="Profile Views" />
 
 </div>
