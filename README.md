@@ -40,8 +40,6 @@
 <img src="https://skillicons.dev/icons?i=git,gitlab,js,ts,vscode,postman,jira"
      alt="Tech Stack Icons"/>
 
-<br>
-
 <img src="https://playwright.dev/img/playwright-logo.svg"
      width="50"
      alt="Playwright"/>
