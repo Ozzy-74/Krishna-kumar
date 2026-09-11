@@ -1,9 +1,4 @@
 <div align="center">
-
-# Hi there, I'm krishna kumar
-
-### $\color{#2EA9DF}{\textsf{QA / Automation Test Engineer}}$ | Playwright • TypeScript • CI/CD
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA9DF,100:6A5ACD&height=200&section=header&text=Hey,%20I'm%20%5BYour%20Name%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=QA%20%2F%20Automation%20Test%20Engineer%20%7C%20Playwright%20%2B%20TypeScript&descAlignY=55&descSize=18" width="100%" alt="Header Banner" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=6A5ACD&center=true&vCenter=true&width=650&lines=Automating+the+boring+stuff+...;End-to-End+Testing+with+Playwright;TypeScript+%7C+JavaScript+%7C+CI%2FCD;Zero+bugs+shipped%2C+all+bugs+caught." alt="Typing SVG" />
