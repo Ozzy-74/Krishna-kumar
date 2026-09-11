@@ -23,7 +23,7 @@
 
 **ROLE QA** / AUTOMATION TEST ENGINEER
 >
-**BUILD** Playwright + TypeScript
+**🧱BUILD** Playwright + TypeScript
 >>
 **TEST** E2E | API | Visual Regression
 >>>
