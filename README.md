@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi there, I'm krishna kumar 
+# Hi there, I'm [Your Name] 👋
 
 ### QA / Automation Test Engineer | Playwright • TypeScript • CI/CD
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2EA9DF&center=true&vCenter=true&width=600&lines=Automating+the+boring+stuff...;End-to-End+Testing+with+Playwright;TypeScript+%7C+JavaScript+%7C+CI%2FCD;Building+Reliable+Test+Frameworks" alt="Typing SVG" />
 
 <p>
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/krishna-kumar-5aa658298?utm_source=share_via&utm_content=profile&utm_medium=member_android)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="krishmlky74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
@@ -22,7 +22,7 @@
 - 🌱 Exploring **API testing**, **visual regression testing**, and **CI/CD pipelines**
 - 🤝 Open to collaborating on **test automation frameworks** and **open source QA tools**
 - 💬 Ask me about **Playwright**, **TypeScript**, **Test Automation Strategy**, or **CI/CD integration**
-- ⚡ Fun fact: I break things on purpose - professionally.
+- ⚡ Fun fact: I break things on purpose — professionally.
 
 ---
 
@@ -30,18 +30,14 @@
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+<img src="https://cdn.simpleicons.org/git/F05032" height="50" width="50" alt="Git" title="Git"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="50" width="50" alt="GitLab" title="GitLab"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="50" width="50" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="50" width="50" alt="TypeScript" title="TypeScript"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="50" width="50" alt="VS Code" title="VS Code"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/playwright/2EAD33" height="50" width="50" alt="Playwright" title="Playwright"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" width="50" alt="API Testing (Postman)" title="API Testing"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jira/0052CC" height="50" width="50" alt="Jira" title="Jira"/>
 
 </div>
 
@@ -87,8 +83,9 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/krishna-kumar-5aa658298?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="krishmlky74@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 
 </div>
 
