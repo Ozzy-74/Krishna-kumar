@@ -33,12 +33,20 @@
 - ⚡ Fun fact: I break things on purpose — professionally.
 
 ---
-
-### $\color{#3178C6}{\textsf{🛠️ Tech Stack \& Tools}}$
+<div align="center">
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,gitlab,js,ts,vscode,playwright,postman,jira" alt="Tech Stack Icons" />
+<img src="https://skillicons.dev/icons?i=git,gitlab,js,ts,vscode,postman,jira"
+     alt="Tech Stack Icons"/>
+
+<br>
+
+<img src="https://playwright.dev/img/playwright-logo.svg"
+     width="50"
+     alt="Playwright"/>
+
+</div>
 
 </div>
 
