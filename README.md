@@ -7,8 +7,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2EA9DF&center=true&vCenter=true&width=600&lines=Automating+the+boring+stuff...;End-to-End+Testing+with+Playwright;TypeScript+%7C+JavaScript+%7C+CI%2FCD;Building+Reliable+Test+Frameworks" alt="Typing SVG" />
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/krishna-kumar-5aa658298?utm_source=share_via&utm_content=profile&utm_medium=member_android)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="krishmlky74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
@@ -22,7 +22,7 @@
 - 🌱 Exploring **API testing**, **visual regression testing**, and **CI/CD pipelines**
 - 🤝 Open to collaborating on **test automation frameworks** and **open source QA tools**
 - 💬 Ask me about **Playwright**, **TypeScript**, **Test Automation Strategy**, or **CI/CD integration**
-- ⚡ Fun fact: I break things on purpose — professionally.
+- ⚡ Fun fact: I break things on purpose - professionally.
 
 ---
 
