@@ -21,7 +21,7 @@
 
 ### 🎀 ABOUT ME
 
-> `✴ ROLE` :: **QA / AUTOMATION TEST ENGINEER**
+> `🧰 ROLE` :: **QA / AUTOMATION TEST ENGINEER**
 >
 > `🧱 BUILD` :: **Playwright + TypeScript**
 >
@@ -41,7 +41,7 @@
 
 | `AREA`                | `DETAILS`                                                            |
 | :-------------------- | :------------------------------------------------------------------- |
-| `↔ E2E TESTING`      | Cross-browser automation with Playwright (Chromium, Firefox, WebKit) |
+| `🧭 E2E TESTING`      | Cross-browser automation with Playwright (Chromium, Firefox, WebKit) |
 | `🔗 API TESTING`      | REST API validation using Playwright's API testing & Postman         |
 | `📊 REPORTING`        | Allure Reports, HTML Reporter, Playwright Trace Viewer               |
 | `🔁 CI/CD`            | GitHub Actions, Jenkins pipelines for automated test execution       |
