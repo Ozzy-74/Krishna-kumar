@@ -25,7 +25,7 @@
 >
 > `🧱 BUILD` :: **Playwright + TypeScript**
 >
-> `🧪 TEST` :: **E2E | API | Visual Regression**
+> `🧪 TEST` :: **E2E | API | Visual Regression | Playwright MCP**
 >
 > `🖍 DESIGN` :: **POM | Data-Driven | BDD**
 >
