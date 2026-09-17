@@ -21,17 +21,17 @@
 
 ### 🎀 ABOUT ME
 
-> `🧰 ROLE` :: **QA / AUTOMATION TEST ENGINEER**
+> `ROLE` :: **QA / AUTOMATION TEST ENGINEER**
 >
-> `🧱 BUILD` :: **Playwright + TypeScript**
+> `BUILD` :: **Playwright + TypeScript**
 >
-> `🧪 TEST` :: **E2E | API | Visual Regression | Playwright MCP**
+> `TEST` :: **E2E | API | Visual Regression | Playwright MCP**
 >
-> `🖍 DESIGN` :: **POM | Data-Driven | BDD**
+> `DESIGN` :: **POM | Data-Driven | BDD**
 >
-> `🔌 DEPLOY` :: **GitHub Actions | Jenkins**
+> `DEPLOY` :: **GitHub Actions | Jenkins**
 >
-> `🌟 MISSION` :: **Automate. Validate. Improve.**
+> `MISSION` :: **Automate. Validate. Improve.**
 
 > `// Quality isn't tested in. It's engineered.`
 
@@ -41,16 +41,16 @@
 
 | `AREA`                | `DETAILS`                                                            |
 | :-------------------- | :------------------------------------------------------------------- |
-| `🧭 E2E TESTING`      | Cross-browser automation with Playwright (Chromium, Firefox, WebKit) |
-| `🔗 API TESTING`      | REST API validation using Playwright's API testing & Postman         |
-| `📊 REPORTING`        | Allure Reports, HTML Reporter, Playwright Trace Viewer               |
-| `🔁 CI/CD`            | GitHub Actions, Jenkins pipelines for automated test execution       |
-| `🧩 FRAMEWORK DESIGN` | Page Object Model (POM), Data-Driven & BDD (Cucumber) architectures  |
-| `🖼 VISUAL TESTING`   | Screenshot & visual regression testing                               |
+| `E2E TESTING`      | Cross-browser automation with Playwright (Chromium, Firefox, WebKit) |
+| `API TESTING`      | REST API validation using Playwright's API testing & Postman         |
+| `REPORTING`        | Allure Reports, HTML Reporter, Playwright Trace Viewer               |
+| `CI/CD`            | GitHub Actions, Jenkins pipelines for automated test execution       |
+| `FRAMEWORK DESIGN` | Page Object Model (POM), Data-Driven & BDD (Cucumber) architectures  |
+| `VISUAL TESTING`   | Screenshot & visual regression testing                               |
 
 ---
 
-### `🤝 LET'S CONNECT`
+### `LET'S CONNECT`
 
 <div align="left">
 
