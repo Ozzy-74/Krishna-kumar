@@ -19,7 +19,7 @@
 
 ---
 
-### 🎀 ABOUT ME
+### ABOUT ME
 
 > `ROLE` :: **QA / AUTOMATION TEST ENGINEER**
 >
@@ -37,7 +37,7 @@
 
 ---
 
-### `⚛ WHAT I AUTOMATE`
+### `WHAT I AUTOMATE`
 
 | `AREA`                | `DETAILS`                                                            |
 | :-------------------- | :------------------------------------------------------------------- |
