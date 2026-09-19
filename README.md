@@ -40,13 +40,64 @@
 ### `WHAT I AUTOMATE`
 
 | `AREA`                | `DETAILS`                                                            |
-| :-------------------- | :------------------------------------------------------------------- |
+| :-------------------- | :--------------------------------------------------------------------|
 | `E2E TESTING`      | Cross-browser automation with Playwright (Chromium, Firefox, WebKit) |
 | `API TESTING`      | REST API validation using Playwright's API testing & Postman         |
 | `REPORTING`        | Allure Reports, HTML Reporter, Playwright Trace Viewer               |
 | `CI/CD`            | GitHub Actions, Jenkins pipelines for automated test execution       |
 | `FRAMEWORK DESIGN` | Page Object Model (POM), Data-Driven & BDD (Cucumber) architectures  |
 | `VISUAL TESTING`   | Screenshot & visual regression testing                               |
+
+---
+
+### `FEATURED PROJECTS`
+
+<table>
+<tr>
+<td width="50%">
+
+**🎭 E-Commerce E2E Suite**
+`Playwright` `TypeScript` `POM`
+
+Cross-browser test suite covering checkout, cart, and auth flows. Data-driven with fixtures, parallel execution across Chromium/Firefox/WebKit.
+
+[`View Repo →`](#)
+
+</td>
+<td width="50%">
+
+**🔌 API Test Framework**
+`Playwright API` `Postman` `Newman`
+
+REST API validation layer with schema checks, contract testing, and CI-integrated Postman collections.
+
+[`View Repo →`](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📊 BDD Test Automation**
+`Cucumber` `Playwright` `Gherkin`
+
+Behavior-driven framework translating business requirements into executable specs, with Allure reporting.
+
+[`View Repo →`](#)
+
+</td>
+<td width="50%">
+
+**🚀 CI/CD Test Pipeline**
+`GitHub Actions` `Jenkins` `Docker`
+
+Automated test execution on every PR — parallel sharding, trace/video capture on failure, Slack notifications.
+
+[`View Repo →`](#)
+
+</td>
+</tr>
+</table>
 
 ---
 
