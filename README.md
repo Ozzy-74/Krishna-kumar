@@ -56,18 +56,18 @@
 <tr>
 <td width="50%">
 
-**🎭 E-Commerce E2E Suite**
+**E2E Suite**
 `Playwright` `TypeScript` `POM`
 
-Cross-browser test suite covering checkout, cart, and auth flows. Data-driven with fixtures, parallel execution across Chromium/Firefox/WebKit.
+Data-driven with fixtures, parallel execution across Chromium/Firefox/WebKit.
 
 [`View Repo →`](#)
 
 </td>
 <td width="50%">
 
-**🔌 API Test Framework**
-`Playwright API` `Postman` `Newman`
+**API Test Framework**
+`Playwright API` `Postman` 
 
 REST API validation layer with schema checks, contract testing, and CI-integrated Postman collections.
 
@@ -78,8 +78,8 @@ REST API validation layer with schema checks, contract testing, and CI-integrate
 <tr>
 <td width="50%">
 
-**📊 BDD Test Automation**
-`Cucumber` `Playwright` `Gherkin`
+**BDD Test Automation**
+ `Playwright` 
 
 Behavior-driven framework translating business requirements into executable specs, with Allure reporting.
 
@@ -88,7 +88,7 @@ Behavior-driven framework translating business requirements into executable spec
 </td>
 <td width="50%">
 
-**🚀 CI/CD Test Pipeline**
+**CI/CD Test Pipeline**
 `GitHub Actions` `Jenkins` `Docker`
 
 Automated test execution on every PR — parallel sharding, trace/video capture on failure, Slack notifications.
